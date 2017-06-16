@@ -1,0 +1,1602 @@
+[
+  {
+    "redeemed_discounts": {
+      "discount_code": 140791,
+      "email": "richards@glass.tv",
+      "name": {
+        "last": "Glass",
+        "first": "Richards"
+      }
+    },
+    "roi": "1067.3",
+    "sent": 12,
+    "clicks": 2,
+    "opens": 10,
+    "date": "Saturday, March 4, 2017 7:18 AM",
+    "_id": "594162715be60896d3cf1118"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 150091,
+      "email": "darlene@britt.io",
+      "name": {
+        "last": "Britt",
+        "first": "Darlene"
+      }
+    },
+    "roi": "169.91",
+    "sent": 15,
+    "clicks": 2,
+    "opens": 4,
+    "date": "Tuesday, April 4, 2017 11:17 PM",
+    "_id": "594162710113768b53fb4eb2"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 121516,
+      "email": "jill@pena.us",
+      "name": {
+        "last": "Pena",
+        "first": "Jill"
+      }
+    },
+    "roi": "880.17",
+    "sent": 8,
+    "clicks": 4,
+    "opens": 6,
+    "date": "Sunday, March 5, 2017 2:11 AM",
+    "_id": "594162711dc04908a8d27465"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 167872,
+      "email": "lewis@forbes.info",
+      "name": {
+        "last": "Forbes",
+        "first": "Lewis"
+      }
+    },
+    "roi": "1102.83",
+    "sent": 18,
+    "clicks": 7,
+    "opens": 2,
+    "date": "Friday, April 28, 2017 4:25 PM",
+    "_id": "5941627170c4b5da4e3354fe"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 152419,
+      "email": "marjorie@frazier.org",
+      "name": {
+        "last": "Frazier",
+        "first": "Marjorie"
+      }
+    },
+    "roi": "1610.33",
+    "sent": 5,
+    "clicks": 2,
+    "opens": 9,
+    "date": "Saturday, April 1, 2017 6:24 PM",
+    "_id": "594162714df87a3d58ee7aaf"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 137637,
+      "email": "mercado@patterson.co.uk",
+      "name": {
+        "last": "Patterson",
+        "first": "Mercado"
+      }
+    },
+    "roi": "1981.86",
+    "sent": 4,
+    "clicks": 3,
+    "opens": 6,
+    "date": "Monday, March 27, 2017 2:06 AM",
+    "_id": "594162718a6a87c0253fddcf"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 135015,
+      "email": "barry@coffey.biz",
+      "name": {
+        "last": "Coffey",
+        "first": "Barry"
+      }
+    },
+    "roi": "746.52",
+    "sent": 13,
+    "clicks": 4,
+    "opens": 7,
+    "date": "Wednesday, February 15, 2017 1:56 AM",
+    "_id": "59416271923b2c361427f3d9"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 151728,
+      "email": "cameron@mccall.name",
+      "name": {
+        "last": "Mccall",
+        "first": "Cameron"
+      }
+    },
+    "roi": "650.42",
+    "sent": 15,
+    "clicks": 2,
+    "opens": 10,
+    "date": "Sunday, February 5, 2017 8:33 PM",
+    "_id": "594162716112dfaa0f0314b4"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 183935,
+      "email": "russell@moss.me",
+      "name": {
+        "last": "Moss",
+        "first": "Russell"
+      }
+    },
+    "roi": "445.63",
+    "sent": 4,
+    "clicks": 9,
+    "opens": 1,
+    "date": "Thursday, March 9, 2017 5:56 PM",
+    "_id": "594162715a76ef1108889321"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 109481,
+      "email": "marquez@hood.ca",
+      "name": {
+        "last": "Hood",
+        "first": "Marquez"
+      }
+    },
+    "roi": "1097.24",
+    "sent": 11,
+    "clicks": 8,
+    "opens": 2,
+    "date": "Monday, June 5, 2017 1:34 PM",
+    "_id": "594162718e2fe59d5d46288a"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 151738,
+      "email": "eliza@dale.biz",
+      "name": {
+        "last": "Dale",
+        "first": "Eliza"
+      }
+    },
+    "roi": "1872.25",
+    "sent": 7,
+    "clicks": 7,
+    "opens": 4,
+    "date": "Thursday, March 23, 2017 5:57 AM",
+    "_id": "5941627191c2b3281e0a4152"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 187347,
+      "email": "gallagher@roman.net",
+      "name": {
+        "last": "Roman",
+        "first": "Gallagher"
+      }
+    },
+    "roi": "709.93",
+    "sent": 6,
+    "clicks": 9,
+    "opens": 8,
+    "date": "Sunday, March 19, 2017 4:06 PM",
+    "_id": "594162712973285c2ef101de"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 189590,
+      "email": "stein@myers.tv",
+      "name": {
+        "last": "Myers",
+        "first": "Stein"
+      }
+    },
+    "roi": "1433.61",
+    "sent": 9,
+    "clicks": 9,
+    "opens": 5,
+    "date": "Sunday, June 4, 2017 4:17 AM",
+    "_id": "59416271ed031db92a22d735"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 106758,
+      "email": "gentry@hancock.io",
+      "name": {
+        "last": "Hancock",
+        "first": "Gentry"
+      }
+    },
+    "roi": "1178.21",
+    "sent": 19,
+    "clicks": 6,
+    "opens": 6,
+    "date": "Sunday, February 26, 2017 11:48 AM",
+    "_id": "59416271cccc22889fc897f5"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 111947,
+      "email": "hooper@sheppard.us",
+      "name": {
+        "last": "Sheppard",
+        "first": "Hooper"
+      }
+    },
+    "roi": "576.1",
+    "sent": 8,
+    "clicks": 5,
+    "opens": 2,
+    "date": "Wednesday, May 31, 2017 1:24 AM",
+    "_id": "594162711c05cd28c240fab0"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 103116,
+      "email": "carolyn@vazquez.info",
+      "name": {
+        "last": "Vazquez",
+        "first": "Carolyn"
+      }
+    },
+    "roi": "1080.63",
+    "sent": 18,
+    "clicks": 6,
+    "opens": 10,
+    "date": "Friday, March 24, 2017 4:31 AM",
+    "_id": "594162716f36e88455d8d717"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 167129,
+      "email": "jacklyn@collins.org",
+      "name": {
+        "last": "Collins",
+        "first": "Jacklyn"
+      }
+    },
+    "roi": "1266.04",
+    "sent": 16,
+    "clicks": 2,
+    "opens": 8,
+    "date": "Saturday, April 1, 2017 6:51 AM",
+    "_id": "5941627163765f8de3db0663"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 161094,
+      "email": "buckner@wolf.co.uk",
+      "name": {
+        "last": "Wolf",
+        "first": "Buckner"
+      }
+    },
+    "roi": "398.97",
+    "sent": 20,
+    "clicks": 7,
+    "opens": 7,
+    "date": "Monday, May 15, 2017 8:05 PM",
+    "_id": "5941627155e85dd4843e5fb6"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 169732,
+      "email": "hebert@romero.biz",
+      "name": {
+        "last": "Romero",
+        "first": "Hebert"
+      }
+    },
+    "roi": "173.88",
+    "sent": 19,
+    "clicks": 9,
+    "opens": 9,
+    "date": "Monday, April 3, 2017 1:18 PM",
+    "_id": "59416271bac1547d436e3943"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 107406,
+      "email": "odessa@sandoval.name",
+      "name": {
+        "last": "Sandoval",
+        "first": "Odessa"
+      }
+    },
+    "roi": "649.97",
+    "sent": 17,
+    "clicks": 2,
+    "opens": 2,
+    "date": "Sunday, February 26, 2017 9:53 PM",
+    "_id": "594162712470c6c58874bb5e"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 144294,
+      "email": "richmond@cardenas.me",
+      "name": {
+        "last": "Cardenas",
+        "first": "Richmond"
+      }
+    },
+    "roi": "1256.81",
+    "sent": 20,
+    "clicks": 7,
+    "opens": 3,
+    "date": "Friday, May 5, 2017 7:11 AM",
+    "_id": "594162713cef0e0bfe976c89"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 186180,
+      "email": "roth@carlson.ca",
+      "name": {
+        "last": "Carlson",
+        "first": "Roth"
+      }
+    },
+    "roi": "1104.11",
+    "sent": 1,
+    "clicks": 10,
+    "opens": 6,
+    "date": "Sunday, February 5, 2017 10:36 PM",
+    "_id": "59416271dac884f55bb5f4fb"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 117834,
+      "email": "meghan@bennett.biz",
+      "name": {
+        "last": "Bennett",
+        "first": "Meghan"
+      }
+    },
+    "roi": "1282.37",
+    "sent": 5,
+    "clicks": 8,
+    "opens": 7,
+    "date": "Friday, March 31, 2017 6:34 AM",
+    "_id": "59416271e55dcfe26e30ad0c"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 116886,
+      "email": "hinton@gilmore.net",
+      "name": {
+        "last": "Gilmore",
+        "first": "Hinton"
+      }
+    },
+    "roi": "709.78",
+    "sent": 18,
+    "clicks": 5,
+    "opens": 6,
+    "date": "Thursday, April 6, 2017 3:59 PM",
+    "_id": "59416271b8f3b7551608e7ff"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 155614,
+      "email": "bender@downs.tv",
+      "name": {
+        "last": "Downs",
+        "first": "Bender"
+      }
+    },
+    "roi": "1475.58",
+    "sent": 11,
+    "clicks": 3,
+    "opens": 3,
+    "date": "Monday, April 24, 2017 9:01 AM",
+    "_id": "59416271a1d567fbbaeb33ee"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 164615,
+      "email": "lynne@oneill.io",
+      "name": {
+        "last": "Oneill",
+        "first": "Lynne"
+      }
+    },
+    "roi": "1928.39",
+    "sent": 11,
+    "clicks": 10,
+    "opens": 8,
+    "date": "Saturday, June 3, 2017 9:28 PM",
+    "_id": "59416271663a1d5bff327bab"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 135439,
+      "email": "jones@henderson.us",
+      "name": {
+        "last": "Henderson",
+        "first": "Jones"
+      }
+    },
+    "roi": "1709.67",
+    "sent": 5,
+    "clicks": 9,
+    "opens": 8,
+    "date": "Thursday, May 11, 2017 9:43 AM",
+    "_id": "59416271112976aae1248767"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 152580,
+      "email": "lucile@estrada.info",
+      "name": {
+        "last": "Estrada",
+        "first": "Lucile"
+      }
+    },
+    "roi": "1737.8",
+    "sent": 8,
+    "clicks": 9,
+    "opens": 7,
+    "date": "Wednesday, May 31, 2017 3:25 AM",
+    "_id": "59416271dfb9f43aa056d167"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 180474,
+      "email": "esperanza@acevedo.org",
+      "name": {
+        "last": "Acevedo",
+        "first": "Esperanza"
+      }
+    },
+    "roi": "1354.96",
+    "sent": 2,
+    "clicks": 5,
+    "opens": 3,
+    "date": "Tuesday, March 14, 2017 11:12 PM",
+    "_id": "594162710f3358342d23ff71"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 116698,
+      "email": "lesley@harrington.co.uk",
+      "name": {
+        "last": "Harrington",
+        "first": "Lesley"
+      }
+    },
+    "roi": "535.78",
+    "sent": 7,
+    "clicks": 3,
+    "opens": 1,
+    "date": "Friday, February 3, 2017 11:40 PM",
+    "_id": "59416271fbf1dc86c3732705"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 188576,
+      "email": "arlene@shannon.biz",
+      "name": {
+        "last": "Shannon",
+        "first": "Arlene"
+      }
+    },
+    "roi": "944.66",
+    "sent": 4,
+    "clicks": 4,
+    "opens": 8,
+    "date": "Thursday, April 27, 2017 3:09 PM",
+    "_id": "594162713191c1a420461ea0"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 199409,
+      "email": "krystal@browning.name",
+      "name": {
+        "last": "Browning",
+        "first": "Krystal"
+      }
+    },
+    "roi": "1065.56",
+    "sent": 14,
+    "clicks": 9,
+    "opens": 5,
+    "date": "Wednesday, March 29, 2017 9:56 AM",
+    "_id": "5941627183458b82fe91a55e"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 147909,
+      "email": "harding@scott.me",
+      "name": {
+        "last": "Scott",
+        "first": "Harding"
+      }
+    },
+    "roi": "1701.59",
+    "sent": 6,
+    "clicks": 5,
+    "opens": 8,
+    "date": "Tuesday, June 6, 2017 2:49 PM",
+    "_id": "59416271ddc351dec7a172ea"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 172713,
+      "email": "weber@hansen.ca",
+      "name": {
+        "last": "Hansen",
+        "first": "Weber"
+      }
+    },
+    "roi": "448.92",
+    "sent": 20,
+    "clicks": 5,
+    "opens": 7,
+    "date": "Sunday, April 2, 2017 2:13 PM",
+    "_id": "59416271c9a3675727b210c9"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 117898,
+      "email": "montoya@vinson.biz",
+      "name": {
+        "last": "Vinson",
+        "first": "Montoya"
+      }
+    },
+    "roi": "1601.12",
+    "sent": 8,
+    "clicks": 1,
+    "opens": 9,
+    "date": "Sunday, February 12, 2017 2:25 PM",
+    "_id": "594162710191414d97a7d4b7"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 107815,
+      "email": "rose@gomez.net",
+      "name": {
+        "last": "Gomez",
+        "first": "Rose"
+      }
+    },
+    "roi": "1810.63",
+    "sent": 9,
+    "clicks": 8,
+    "opens": 9,
+    "date": "Wednesday, March 1, 2017 4:15 PM",
+    "_id": "594162718d51bdfe57c2e098"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 144820,
+      "email": "steele@buckley.tv",
+      "name": {
+        "last": "Buckley",
+        "first": "Steele"
+      }
+    },
+    "roi": "1220.64",
+    "sent": 18,
+    "clicks": 6,
+    "opens": 6,
+    "date": "Sunday, May 14, 2017 12:33 AM",
+    "_id": "594162714730cede1c67111b"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 189690,
+      "email": "holden@jefferson.io",
+      "name": {
+        "last": "Jefferson",
+        "first": "Holden"
+      }
+    },
+    "roi": "585.14",
+    "sent": 8,
+    "clicks": 8,
+    "opens": 3,
+    "date": "Monday, February 27, 2017 8:29 AM",
+    "_id": "594162711797588fc7dc8d48"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 115576,
+      "email": "riggs@salinas.us",
+      "name": {
+        "last": "Salinas",
+        "first": "Riggs"
+      }
+    },
+    "roi": "782.05",
+    "sent": 18,
+    "clicks": 6,
+    "opens": 6,
+    "date": "Monday, March 20, 2017 3:17 PM",
+    "_id": "594162712c356ecd37b2a13c"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 185383,
+      "email": "sims@wilkinson.info",
+      "name": {
+        "last": "Wilkinson",
+        "first": "Sims"
+      }
+    },
+    "roi": "1442.65",
+    "sent": 6,
+    "clicks": 2,
+    "opens": 2,
+    "date": "Monday, March 13, 2017 8:51 AM",
+    "_id": "594162716011c85ab4a0b13f"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 159152,
+      "email": "deirdre@mathews.org",
+      "name": {
+        "last": "Mathews",
+        "first": "Deirdre"
+      }
+    },
+    "roi": "1360.88",
+    "sent": 11,
+    "clicks": 2,
+    "opens": 5,
+    "date": "Wednesday, March 8, 2017 4:45 PM",
+    "_id": "59416271079ab25f91ba2102"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 189196,
+      "email": "rios@shaw.co.uk",
+      "name": {
+        "last": "Shaw",
+        "first": "Rios"
+      }
+    },
+    "roi": "1453.97",
+    "sent": 16,
+    "clicks": 8,
+    "opens": 2,
+    "date": "Wednesday, March 8, 2017 6:57 PM",
+    "_id": "59416271f84cc98221c7ecbc"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 149678,
+      "email": "claudia@soto.biz",
+      "name": {
+        "last": "Soto",
+        "first": "Claudia"
+      }
+    },
+    "roi": "1196.19",
+    "sent": 11,
+    "clicks": 2,
+    "opens": 7,
+    "date": "Sunday, April 9, 2017 8:13 PM",
+    "_id": "59416271123a90c868512c1f"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 156129,
+      "email": "ellison@mullen.name",
+      "name": {
+        "last": "Mullen",
+        "first": "Ellison"
+      }
+    },
+    "roi": "1345.21",
+    "sent": 5,
+    "clicks": 7,
+    "opens": 9,
+    "date": "Saturday, February 4, 2017 10:17 AM",
+    "_id": "59416271c0158c2426375907"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 168068,
+      "email": "claire@hurley.me",
+      "name": {
+        "last": "Hurley",
+        "first": "Claire"
+      }
+    },
+    "roi": "611.18",
+    "sent": 16,
+    "clicks": 9,
+    "opens": 8,
+    "date": "Wednesday, June 7, 2017 4:40 PM",
+    "_id": "59416271a54e6a0c12488cb0"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 109461,
+      "email": "mcfarland@lester.ca",
+      "name": {
+        "last": "Lester",
+        "first": "Mcfarland"
+      }
+    },
+    "roi": "1201.08",
+    "sent": 16,
+    "clicks": 6,
+    "opens": 5,
+    "date": "Wednesday, March 15, 2017 4:46 PM",
+    "_id": "5941627127f9953146edc786"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 140108,
+      "email": "trisha@wyatt.biz",
+      "name": {
+        "last": "Wyatt",
+        "first": "Trisha"
+      }
+    },
+    "roi": "944.45",
+    "sent": 1,
+    "clicks": 6,
+    "opens": 10,
+    "date": "Friday, March 10, 2017 9:24 AM",
+    "_id": "59416271e05f89134f015574"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 196233,
+      "email": "solis@carrillo.net",
+      "name": {
+        "last": "Carrillo",
+        "first": "Solis"
+      }
+    },
+    "roi": "988.98",
+    "sent": 19,
+    "clicks": 6,
+    "opens": 7,
+    "date": "Tuesday, April 18, 2017 5:30 AM",
+    "_id": "59416271f420ecc2d5fa4f90"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 168914,
+      "email": "johnnie@glenn.tv",
+      "name": {
+        "last": "Glenn",
+        "first": "Johnnie"
+      }
+    },
+    "roi": "1655.01",
+    "sent": 16,
+    "clicks": 5,
+    "opens": 3,
+    "date": "Friday, March 10, 2017 12:25 PM",
+    "_id": "59416271df1488bc6f080ee6"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 142919,
+      "email": "helena@newton.io",
+      "name": {
+        "last": "Newton",
+        "first": "Helena"
+      }
+    },
+    "roi": "1320.22",
+    "sent": 1,
+    "clicks": 3,
+    "opens": 1,
+    "date": "Saturday, April 15, 2017 3:44 PM",
+    "_id": "594162719ecca5eedb9a3e7e"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 188738,
+      "email": "janell@finley.us",
+      "name": {
+        "last": "Finley",
+        "first": "Janell"
+      }
+    },
+    "roi": "1696.29",
+    "sent": 14,
+    "clicks": 4,
+    "opens": 1,
+    "date": "Monday, May 29, 2017 3:39 PM",
+    "_id": "594162718b5771134d75a904"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 125446,
+      "email": "keri@santos.info",
+      "name": {
+        "last": "Santos",
+        "first": "Keri"
+      }
+    },
+    "roi": "188.32",
+    "sent": 12,
+    "clicks": 8,
+    "opens": 8,
+    "date": "Thursday, June 8, 2017 12:31 AM",
+    "_id": "594162711a1d8c0c28e0a658"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 140329,
+      "email": "sheena@burt.org",
+      "name": {
+        "last": "Burt",
+        "first": "Sheena"
+      }
+    },
+    "roi": "1122.15",
+    "sent": 14,
+    "clicks": 7,
+    "opens": 2,
+    "date": "Tuesday, April 25, 2017 1:31 AM",
+    "_id": "59416271c9755177ba5bc58a"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 174357,
+      "email": "blankenship@ewing.co.uk",
+      "name": {
+        "last": "Ewing",
+        "first": "Blankenship"
+      }
+    },
+    "roi": "351.4",
+    "sent": 6,
+    "clicks": 2,
+    "opens": 2,
+    "date": "Monday, May 22, 2017 6:27 PM",
+    "_id": "59416271630e7406d177d13a"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 193556,
+      "email": "nita@roberson.biz",
+      "name": {
+        "last": "Roberson",
+        "first": "Nita"
+      }
+    },
+    "roi": "1394.99",
+    "sent": 19,
+    "clicks": 7,
+    "opens": 5,
+    "date": "Thursday, May 11, 2017 7:33 AM",
+    "_id": "594162714446099352ff6bc6"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 138646,
+      "email": "kristin@alvarez.name",
+      "name": {
+        "last": "Alvarez",
+        "first": "Kristin"
+      }
+    },
+    "roi": "1673.65",
+    "sent": 9,
+    "clicks": 8,
+    "opens": 2,
+    "date": "Thursday, April 20, 2017 9:17 PM",
+    "_id": "59416271a110de41dc7ab899"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 154098,
+      "email": "santiago@larsen.me",
+      "name": {
+        "last": "Larsen",
+        "first": "Santiago"
+      }
+    },
+    "roi": "1256.32",
+    "sent": 7,
+    "clicks": 3,
+    "opens": 2,
+    "date": "Monday, March 20, 2017 9:41 PM",
+    "_id": "59416271e6cd38a3e020c87c"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 106755,
+      "email": "bailey@fox.ca",
+      "name": {
+        "last": "Fox",
+        "first": "Bailey"
+      }
+    },
+    "roi": "665.29",
+    "sent": 12,
+    "clicks": 7,
+    "opens": 10,
+    "date": "Wednesday, April 19, 2017 1:27 PM",
+    "_id": "5941627159d489e0d76ea4cd"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 106743,
+      "email": "morgan@simpson.biz",
+      "name": {
+        "last": "Simpson",
+        "first": "Morgan"
+      }
+    },
+    "roi": "1638.13",
+    "sent": 3,
+    "clicks": 3,
+    "opens": 2,
+    "date": "Saturday, May 20, 2017 10:57 PM",
+    "_id": "5941627180c751e33f939561"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 160477,
+      "email": "karla@lambert.net",
+      "name": {
+        "last": "Lambert",
+        "first": "Karla"
+      }
+    },
+    "roi": "1352.37",
+    "sent": 6,
+    "clicks": 9,
+    "opens": 6,
+    "date": "Sunday, June 4, 2017 8:31 AM",
+    "_id": "594162714b4146cde8f985df"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 114242,
+      "email": "carr@head.tv",
+      "name": {
+        "last": "Head",
+        "first": "Carr"
+      }
+    },
+    "roi": "1978.26",
+    "sent": 8,
+    "clicks": 5,
+    "opens": 10,
+    "date": "Monday, May 15, 2017 12:37 PM",
+    "_id": "594162720d006dcd4f9678f3"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 115965,
+      "email": "dena@bruce.io",
+      "name": {
+        "last": "Bruce",
+        "first": "Dena"
+      }
+    },
+    "roi": "194.23",
+    "sent": 8,
+    "clicks": 5,
+    "opens": 2,
+    "date": "Saturday, February 18, 2017 1:55 PM",
+    "_id": "5941627275d1998dfc297e3d"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 126578,
+      "email": "michele@best.us",
+      "name": {
+        "last": "Best",
+        "first": "Michele"
+      }
+    },
+    "roi": "1456.82",
+    "sent": 10,
+    "clicks": 4,
+    "opens": 6,
+    "date": "Sunday, March 12, 2017 5:33 AM",
+    "_id": "594162726db7e565705ddcde"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 161602,
+      "email": "jacobson@rocha.info",
+      "name": {
+        "last": "Rocha",
+        "first": "Jacobson"
+      }
+    },
+    "roi": "1803.04",
+    "sent": 1,
+    "clicks": 10,
+    "opens": 9,
+    "date": "Monday, June 12, 2017 9:20 AM",
+    "_id": "5941627295783c752a990b7e"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 168615,
+      "email": "ericka@velasquez.org",
+      "name": {
+        "last": "Velasquez",
+        "first": "Ericka"
+      }
+    },
+    "roi": "493.06",
+    "sent": 8,
+    "clicks": 5,
+    "opens": 9,
+    "date": "Monday, April 24, 2017 7:44 PM",
+    "_id": "59416272929b7ec4c937d2e1"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 184218,
+      "email": "belinda@cantrell.co.uk",
+      "name": {
+        "last": "Cantrell",
+        "first": "Belinda"
+      }
+    },
+    "roi": "969.06",
+    "sent": 9,
+    "clicks": 4,
+    "opens": 6,
+    "date": "Saturday, April 1, 2017 4:38 PM",
+    "_id": "594162722ffb5f96d89d6282"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 152202,
+      "email": "padilla@norris.biz",
+      "name": {
+        "last": "Norris",
+        "first": "Padilla"
+      }
+    },
+    "roi": "1875.45",
+    "sent": 5,
+    "clicks": 8,
+    "opens": 4,
+    "date": "Wednesday, June 7, 2017 12:24 AM",
+    "_id": "5941627224c0cc4be7d566aa"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 138644,
+      "email": "nettie@ellis.name",
+      "name": {
+        "last": "Ellis",
+        "first": "Nettie"
+      }
+    },
+    "roi": "1532.15",
+    "sent": 11,
+    "clicks": 7,
+    "opens": 8,
+    "date": "Monday, March 6, 2017 12:49 PM",
+    "_id": "5941627213cefb78fe137a17"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 153060,
+      "email": "lenore@albert.me",
+      "name": {
+        "last": "Albert",
+        "first": "Lenore"
+      }
+    },
+    "roi": "1221.86",
+    "sent": 6,
+    "clicks": 7,
+    "opens": 2,
+    "date": "Friday, February 10, 2017 7:18 PM",
+    "_id": "59416272a610d7947a67af19"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 126692,
+      "email": "wilkerson@colon.ca",
+      "name": {
+        "last": "Colon",
+        "first": "Wilkerson"
+      }
+    },
+    "roi": "1701.24",
+    "sent": 9,
+    "clicks": 8,
+    "opens": 2,
+    "date": "Wednesday, February 8, 2017 5:40 AM",
+    "_id": "5941627294b164ca52dd7c1b"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 127287,
+      "email": "natalia@craig.biz",
+      "name": {
+        "last": "Craig",
+        "first": "Natalia"
+      }
+    },
+    "roi": "1720.12",
+    "sent": 15,
+    "clicks": 9,
+    "opens": 6,
+    "date": "Saturday, March 4, 2017 4:03 AM",
+    "_id": "594162725e6ccf8f51666a96"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 173168,
+      "email": "rowe@ross.net",
+      "name": {
+        "last": "Ross",
+        "first": "Rowe"
+      }
+    },
+    "roi": "1130.17",
+    "sent": 6,
+    "clicks": 8,
+    "opens": 3,
+    "date": "Sunday, April 2, 2017 5:10 PM",
+    "_id": "594162725ad2546ac0447433"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 153757,
+      "email": "sasha@fletcher.tv",
+      "name": {
+        "last": "Fletcher",
+        "first": "Sasha"
+      }
+    },
+    "roi": "1601.1",
+    "sent": 4,
+    "clicks": 5,
+    "opens": 8,
+    "date": "Wednesday, March 1, 2017 3:58 AM",
+    "_id": "594162720fd14298523f0ae3"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 160272,
+      "email": "myra@cherry.io",
+      "name": {
+        "last": "Cherry",
+        "first": "Myra"
+      }
+    },
+    "roi": "477.99",
+    "sent": 3,
+    "clicks": 6,
+    "opens": 8,
+    "date": "Wednesday, March 22, 2017 6:54 PM",
+    "_id": "594162721f9026d8cf28dbea"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 100672,
+      "email": "christa@mcintosh.us",
+      "name": {
+        "last": "Mcintosh",
+        "first": "Christa"
+      }
+    },
+    "roi": "424.78",
+    "sent": 6,
+    "clicks": 8,
+    "opens": 8,
+    "date": "Saturday, February 18, 2017 3:47 PM",
+    "_id": "59416272a065c6e63ba2c16b"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 115988,
+      "email": "andrea@wright.info",
+      "name": {
+        "last": "Wright",
+        "first": "Andrea"
+      }
+    },
+    "roi": "173.21",
+    "sent": 1,
+    "clicks": 4,
+    "opens": 5,
+    "date": "Friday, March 3, 2017 12:15 PM",
+    "_id": "59416272cb17b2890803e3a4"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 130805,
+      "email": "rachelle@tillman.org",
+      "name": {
+        "last": "Tillman",
+        "first": "Rachelle"
+      }
+    },
+    "roi": "1151.36",
+    "sent": 12,
+    "clicks": 7,
+    "opens": 5,
+    "date": "Tuesday, March 21, 2017 1:39 AM",
+    "_id": "59416272855089e1fdc5e430"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 114646,
+      "email": "tina@gross.co.uk",
+      "name": {
+        "last": "Gross",
+        "first": "Tina"
+      }
+    },
+    "roi": "219.68",
+    "sent": 12,
+    "clicks": 9,
+    "opens": 9,
+    "date": "Saturday, May 13, 2017 12:33 AM",
+    "_id": "59416272080ecfa67ea29888"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 118485,
+      "email": "rodriquez@ortega.biz",
+      "name": {
+        "last": "Ortega",
+        "first": "Rodriquez"
+      }
+    },
+    "roi": "1131.83",
+    "sent": 14,
+    "clicks": 7,
+    "opens": 9,
+    "date": "Monday, February 27, 2017 3:13 PM",
+    "_id": "5941627233a74e3070346bdf"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 197621,
+      "email": "allyson@holder.name",
+      "name": {
+        "last": "Holder",
+        "first": "Allyson"
+      }
+    },
+    "roi": "657.76",
+    "sent": 20,
+    "clicks": 7,
+    "opens": 9,
+    "date": "Friday, April 21, 2017 9:17 PM",
+    "_id": "59416272dcee584dd0a56eed"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 135271,
+      "email": "kelli@pearson.me",
+      "name": {
+        "last": "Pearson",
+        "first": "Kelli"
+      }
+    },
+    "roi": "1621.09",
+    "sent": 17,
+    "clicks": 8,
+    "opens": 9,
+    "date": "Monday, May 22, 2017 1:39 PM",
+    "_id": "5941627261bd7884b203000d"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 162537,
+      "email": "charity@kent.ca",
+      "name": {
+        "last": "Kent",
+        "first": "Charity"
+      }
+    },
+    "roi": "1805.27",
+    "sent": 10,
+    "clicks": 7,
+    "opens": 3,
+    "date": "Saturday, February 4, 2017 12:54 AM",
+    "_id": "594162720e6d1bebb76917b6"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 107403,
+      "email": "stella@dillon.biz",
+      "name": {
+        "last": "Dillon",
+        "first": "Stella"
+      }
+    },
+    "roi": "643.62",
+    "sent": 9,
+    "clicks": 9,
+    "opens": 1,
+    "date": "Monday, April 3, 2017 1:29 PM",
+    "_id": "59416272651e31e76bef4459"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 140712,
+      "email": "joann@hays.net",
+      "name": {
+        "last": "Hays",
+        "first": "Joann"
+      }
+    },
+    "roi": "1555.11",
+    "sent": 10,
+    "clicks": 2,
+    "opens": 9,
+    "date": "Sunday, February 26, 2017 7:03 PM",
+    "_id": "59416272a8014467de6ad118"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 154183,
+      "email": "elinor@reynolds.tv",
+      "name": {
+        "last": "Reynolds",
+        "first": "Elinor"
+      }
+    },
+    "roi": "323.88",
+    "sent": 13,
+    "clicks": 4,
+    "opens": 3,
+    "date": "Wednesday, May 24, 2017 11:23 AM",
+    "_id": "594162726720e1c6a4e99c88"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 177571,
+      "email": "osborn@terry.io",
+      "name": {
+        "last": "Terry",
+        "first": "Osborn"
+      }
+    },
+    "roi": "126.56",
+    "sent": 20,
+    "clicks": 5,
+    "opens": 5,
+    "date": "Saturday, April 29, 2017 5:10 AM",
+    "_id": "59416272d263b296c38306d2"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 193054,
+      "email": "bradshaw@clemons.us",
+      "name": {
+        "last": "Clemons",
+        "first": "Bradshaw"
+      }
+    },
+    "roi": "1642.79",
+    "sent": 19,
+    "clicks": 7,
+    "opens": 9,
+    "date": "Monday, May 15, 2017 4:08 AM",
+    "_id": "59416272c8ca12c80f69884e"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 128521,
+      "email": "morse@rosario.info",
+      "name": {
+        "last": "Rosario",
+        "first": "Morse"
+      }
+    },
+    "roi": "1164.08",
+    "sent": 15,
+    "clicks": 3,
+    "opens": 6,
+    "date": "Monday, February 20, 2017 9:40 PM",
+    "_id": "59416272a2834517ee5cbf93"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 166200,
+      "email": "butler@pitts.org",
+      "name": {
+        "last": "Pitts",
+        "first": "Butler"
+      }
+    },
+    "roi": "248.87",
+    "sent": 2,
+    "clicks": 6,
+    "opens": 5,
+    "date": "Tuesday, March 28, 2017 6:10 PM",
+    "_id": "59416272bd672654b2d21574"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 191816,
+      "email": "patrice@snyder.co.uk",
+      "name": {
+        "last": "Snyder",
+        "first": "Patrice"
+      }
+    },
+    "roi": "879.84",
+    "sent": 15,
+    "clicks": 8,
+    "opens": 10,
+    "date": "Wednesday, March 15, 2017 5:54 PM",
+    "_id": "59416272f26ee20a7dcfa7a9"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 172974,
+      "email": "carroll@bass.biz",
+      "name": {
+        "last": "Bass",
+        "first": "Carroll"
+      }
+    },
+    "roi": "202.8",
+    "sent": 3,
+    "clicks": 4,
+    "opens": 6,
+    "date": "Saturday, February 18, 2017 9:15 AM",
+    "_id": "59416272ad23fdd42cd90607"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 177042,
+      "email": "young@rivera.name",
+      "name": {
+        "last": "Rivera",
+        "first": "Young"
+      }
+    },
+    "roi": "1423.54",
+    "sent": 9,
+    "clicks": 4,
+    "opens": 8,
+    "date": "Sunday, April 2, 2017 3:33 AM",
+    "_id": "59416272aca3ed097f58b064"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 130514,
+      "email": "russo@fields.me",
+      "name": {
+        "last": "Fields",
+        "first": "Russo"
+      }
+    },
+    "roi": "1798.69",
+    "sent": 5,
+    "clicks": 4,
+    "opens": 7,
+    "date": "Saturday, June 10, 2017 10:15 AM",
+    "_id": "594162721fbb4f3645d8832d"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 178500,
+      "email": "joyner@hendrix.ca",
+      "name": {
+        "last": "Hendrix",
+        "first": "Joyner"
+      }
+    },
+    "roi": "1706.01",
+    "sent": 8,
+    "clicks": 2,
+    "opens": 8,
+    "date": "Sunday, February 19, 2017 10:23 PM",
+    "_id": "59416272efa66567efd6ed10"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 136904,
+      "email": "leticia@spears.biz",
+      "name": {
+        "last": "Spears",
+        "first": "Leticia"
+      }
+    },
+    "roi": "1448.02",
+    "sent": 13,
+    "clicks": 6,
+    "opens": 8,
+    "date": "Tuesday, March 14, 2017 2:44 AM",
+    "_id": "5941627285c1ab2f3ac0ec93"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 156928,
+      "email": "nannie@tanner.net",
+      "name": {
+        "last": "Tanner",
+        "first": "Nannie"
+      }
+    },
+    "roi": "1302.21",
+    "sent": 17,
+    "clicks": 9,
+    "opens": 4,
+    "date": "Saturday, February 25, 2017 7:32 AM",
+    "_id": "594162727b893202f8d2f342"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 174778,
+      "email": "sheryl@small.tv",
+      "name": {
+        "last": "Small",
+        "first": "Sheryl"
+      }
+    },
+    "roi": "635.19",
+    "sent": 17,
+    "clicks": 2,
+    "opens": 6,
+    "date": "Saturday, April 8, 2017 1:52 PM",
+    "_id": "59416272698b09f4d80bc4c2"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 152415,
+      "email": "gladys@baldwin.io",
+      "name": {
+        "last": "Baldwin",
+        "first": "Gladys"
+      }
+    },
+    "roi": "1370.83",
+    "sent": 19,
+    "clicks": 3,
+    "opens": 9,
+    "date": "Saturday, April 15, 2017 7:57 AM",
+    "_id": "594162722225bf553c650887"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 190099,
+      "email": "kelley@england.us",
+      "name": {
+        "last": "England",
+        "first": "Kelley"
+      }
+    },
+    "roi": "753.21",
+    "sent": 9,
+    "clicks": 8,
+    "opens": 3,
+    "date": "Wednesday, February 22, 2017 3:05 AM",
+    "_id": "59416272f6fc7dd9b767daed"
+  },
+  {
+    "redeemed_discounts": {
+      "discount_code": 157536,
+      "email": "branch@trujillo.info",
+      "name": {
+        "last": "Trujillo",
+        "first": "Branch"
+      }
+    },
+    "roi": "392.58",
+    "sent": 3,
+    "clicks": 1,
+    "opens": 6,
+    "date": "Friday, April 14, 2017 7:19 PM",
+    "_id": "59416272c1830ec9ae70cd13"
+  }
+]
