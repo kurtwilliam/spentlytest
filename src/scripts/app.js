@@ -1,19 +1,114 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import DataSet from './components/DataSet.js';
-
+import data from '../../data.json';
 
 class App extends React.Component {
 	constructor() {
 		super();
-		// this.state = {
-		// 	openRate: ''
-		// 	// clickRate: '',
-		// 	// emailsSent: '',
-		// 	// roi: '',
+		this.state = {
+		  totalROI: 0,
+		  avgROI: 0,
+		  avgEmailsSent: 0,
+		  avgOpenRate: 0,
+		  avgClickRate: 0,
+		  // date
+		}
+  		this.summaryStats = this.summaryStats.bind(this);
+	}
+	summaryStats(){
+		// Calculate total ROI and avg ROI
 
-		// }
-		// this.dataPull = this.dataPull.bind(this);
+		// set var ROI equal to empty array
+		let ROI = []
+
+		// push all of the ROI data from JSON file to empty roi array
+		data.map((data) => {
+			ROI.push(data.roi);
+		})
+
+		// turn array items from strings to numbers
+		let newROI = ROI.map((x) => { 
+		   return Number(x); 
+		})
+
+		// add together each number to get a total
+		let reduceROI = newROI.reduce((num1, num2) => num1 + num2, 0)
+
+		// Round the total to two decimals - new totalROI
+		let totalROI = Math.floor(reduceROI * 100) / 100;
+
+		// get average return by dividing the total amount of return by the number of items in the newROI array
+		let avgROI = totalROI / newROI.length
+
+		// Round the total to two decimals - new avgROI
+		avgROI = Math.floor(avgROI * 100) / 100;
+
+		// Calculate avgEmailsSent, avgOpenRate and avgClickRate
+
+		// set empty arrays for each
+		let emailsSent = []
+		let openRate = []
+		let clickRate = []
+
+		// push all of the data from JSON file to empty arrays
+		data.map((data) => {
+			// push sent data to empty array
+		 	emailsSent.push(data.sent);
+
+		 	// calculate openRate for each and round
+		 	let dataOpenRate = Math.round(((data.opens / data.sent * 100) + 0.00001) * 100) / 100;
+		 	// push openRate data to empty array
+		 	openRate.push(dataOpenRate);
+
+		 	// calculate clickRate for each and round
+		 	let dataClickRate = Math.round(((data.clicks / data.sent * 100) + 0.00001) * 100 ) / 100;
+		 	// push clickRate data to empty array
+		 	clickRate.push(dataClickRate);
+		});
+
+		// turn array items from strings to numbers
+		let newEmailsSent = emailsSent.map((x) => { 
+		   return Number(x); 
+		})
+		let newOpenRate = openRate.map((x) => { 
+		   return Number(x); 
+		})
+		let newClickRate = clickRate.map((x) => { 
+		   return Number(x); 
+		})
+
+		// add together each number to get a total
+		let reduceEmails = newEmailsSent.reduce((num1, num2) => num1 + num2, 0);
+		let reduceOpen = newOpenRate.reduce((num1, num2) => num1 + num2, 0);
+		let reduceClick = newClickRate.reduce((num1, num2) => num1 + num2, 0);
+
+		// Round the total to two decimals - new totalROI
+		let totalEmails = Math.floor(reduceEmails * 100) / 100;
+		let totalOpen = Math.floor(reduceOpen * 100) / 100;
+		let totalClick = Math.floor(reduceClick * 100) / 100;
+
+		// get average by dividing the total amount by the number of items in the array
+		let avgEmailsSent = totalEmails / newEmailsSent.length;
+		let avgOpenRate = totalOpen / newClickRate.length
+		let avgClickRate = totalClick / newOpenRate.length
+
+		// Round the total to two decimals - new states!
+		avgEmailsSent = Math.floor(avgEmailsSent * 100) / 100;
+		avgOpenRate = Math.floor(avgOpenRate * 100) / 100;
+		avgClickRate = Math.floor(avgClickRate * 100) / 100;
+
+		console.log(avgEmailsSent)
+		console.log(avgOpenRate)
+		console.log(avgClickRate)
+
+		this.setState({
+			totalROI,
+			avgROI,
+			avgEmailsSent,
+			avgOpenRate,
+			avgClickRate
+		})
 	}
 	render(){
 		return (
@@ -35,16 +130,47 @@ class App extends React.Component {
 						<a href="http://www.kurtwilliam.com">Made by Kurt</a>
 					</div>
 				</header>
-				
 				<section className="report">
 					<div className="container">
 						<h1>Reports</h1>
 						<form action="" className="form">
-							<label htmlFor="from">From:</label>
-							<input className="form__input" type="text" placeholder="DD/MM/YYYY" name="from" />
-							<label htmlFor="to">To:</label>
-							<input className="form__input" type="text" placeholder="DD/MM/YYYY" name="to" />
+							<div>
+								<label htmlFor="from">From:</label>
+								<input className="form__input" type="text" placeholder="YYYY-MM-DD" name="from" />
+							</div>
+							<div>
+								<label htmlFor="to">To:</label>
+								<input className="form__input" type="text" placeholder="YYYY-MM-DD" name="to" />
+							</div>
 						</form>
+					</div>
+				</section>
+				<section className="summary">
+					<div className="container">
+						<div className="summary__top">
+							<div className="summary__box">
+								<p>$ {this.state.totalROI}</p>
+								<p>Total ROI</p>
+							</div>
+							<div className="summary__box">
+								<p>$ {this.state.avgROI}</p>
+								<p>Avg. ROI/customer</p>
+							</div>
+						</div>
+						<div className="summary__bottom">
+							<div className="summary__box">
+								<p>{this.state.avgEmailsSent}</p>
+								<p>Avg. Emails Sent</p>
+							</div>
+							<div className="summary__box">
+								<p>{this.state.avgOpenRate} %</p>
+								<p>Avg. Open Rate</p>
+							</div>
+							<div className="summary__box">
+								<p>{this.state.avgClickRate} %</p>
+								<p>Avg. Click Rate</p>
+							</div>
+						</div>
 					</div>
 				</section>
 				<DataSet />
@@ -52,38 +178,8 @@ class App extends React.Component {
 		)
 	}
 	componentDidMount(){
-
+		this.summaryStats();
 	}
 }
 
 ReactDOM.render(<App />, document.getElementById('app'));
-
-// <section id="data__section">
-// 	<div className="data__top">
-// 		<div className="container">
-// 			<p><strong>Glass, Richards</strong></p>
-// 			<p>140791</p>
-// 			<p>richards@glass.tv</p>
-// 		</div>
-// 	</div>
-// 	<div className="data__bottom">
-// 		<div className="container">
-// 			<div className="data__box">
-// 				<p>12</p>
-// 				<p>Emails Sent</p>
-// 			</div>
-// 			<div className="data__box">
-// 				<p>83.33%</p>
-// 				<p>Open Rate</p>
-// 			</div>
-// 			<div className="data__box">
-// 				<p>16.66%</p>
-// 				<p>Click Rate</p>
-// 			</div>
-// 			<div className="data__box">
-// 				<p>$392.40</p>
-// 				<p>Return on Investment</p>
-// 			</div>
-// 		</div>
-// 	</div>
-// </section>
