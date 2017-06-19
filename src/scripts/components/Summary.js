@@ -112,25 +112,25 @@ export default class Report extends React.Component{
             <div className="container">
               <div className="summary__top">
                 <div className="summary__box">
-                  <p key={totalROI}>$ {this.state.totalROI}</p>
+                  <p>$ {this.state.totalROI}</p>
                   <p>Total ROI</p>
                 </div>
                 <div className="summary__box">
-                  <p key={avgROI}>$ {this.state.avgROI}</p>
+                  <p>$ {this.state.avgROI}</p>
                   <p>Avg. ROI/customer</p>
                 </div>
               </div>
               <div className="summary__bottom">
                 <div className="summary__box">
-                  <p key={avgEmailsSent}>{this.state.avgEmailsSent}</p>
+                  <p>{this.state.avgEmailsSent}</p>
                   <p>Avg. Emails Sent</p>
                 </div>
                 <div className="summary__box">
-                  <p key={avgOpenRate}>{this.state.avgOpenRate} %</p>
+                  <p>{this.state.avgOpenRate} %</p>
                   <p>Avg. Open Rate</p>
                 </div>
                 <div className="summary__box">
-                  <p key={avgClickRate}>{this.state.avgClickRate} %</p>
+                  <p>{this.state.avgClickRate} %</p>
                   <p>Avg. Click Rate</p>
                 </div>
               </div>

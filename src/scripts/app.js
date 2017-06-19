@@ -8,16 +8,7 @@ import Summary from './components/Summary.js';
 class App extends React.Component {
 	constructor() {
 		super();
-		this.state = {
-		  
-		}
-  		this.callBack = this.callBack.bind(this);
 	}
-	callBack() {
-		// let myCallBack = ((dataFromChild) => {
-		// 	[...we will use the dataFromChild here...]
-		// })
-	} 
 	render(){
 		return (
 			<div>
@@ -25,7 +16,7 @@ class App extends React.Component {
 				<Report /> 
 				<Summary />
 				<section className="data__section">
-					<DataSet />
+					<DataSet key={data.toString()} />
 				</section>
 			</div>
 		)
