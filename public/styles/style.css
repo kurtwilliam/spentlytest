@@ -373,3 +373,14 @@ h1, h2, h3, h4, h5, h6, p {
       color: #348FE2; }
     .data__section .data__right .data__box:nth-of-type(3) {
       color: #F59C1A; }
+
+.hidden {
+  display: none; }
+
+#tip .container {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: center;
+      justify-content: center; }
+  #tip .container p {
+    font-size: 1.6rem; }

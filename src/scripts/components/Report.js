@@ -11,6 +11,7 @@ export default class Report extends React.Component{
     this.dateInputFrom = this.dateInputFrom.bind(this);
     this.dateInputTo = this.dateInputTo.bind(this);
     this.handleSubmit = this.handleSubmit.bind(this);
+
   }
   dateInputFrom(e){
     this.setState({fromDate: e.target.value});
@@ -20,6 +21,32 @@ export default class Report extends React.Component{
   }
   handleSubmit(e){
     e.preventDefault();
+
+    let dataDiv = document.querySelectorAll(".data__container");
+    let fromDate = this.state.fromDate;
+    let toDate = this.state.toDate;
+
+
+    dataDiv.forEach(function(el) {
+      let data = el.getAttribute('data-newDate')
+      
+      if ( data > fromDate && data < toDate ) {
+        el.classList.remove('hidden')
+      } else {
+        el.classList.add('hidden')
+      }
+    })
+
+    function showTip() {
+      let hiddenElements = document.querySelectorAll(".hidden");
+      let tip = document.getElementById("tip"); 
+
+      if ( hiddenElements.length >= 100 ) {
+        tip.classList.remove('hidden')
+      } else {
+        tip.classList.add('hidden')
+      }
+    }
   }
   render() {
     return (
@@ -27,17 +54,22 @@ export default class Report extends React.Component{
         <section className="report">
           <div className="container">
             <h1>Reports</h1>
-            <form action="" className="form" onSubmit={this.handleSubmit}>
+            <form action="" className="form" key={handleSubmit} onSubmit={this.handleSubmit}>
               <div>
                 <label htmlFor="from">From:</label>
-                <input required className="form__input" type="text" placeholder="YYYY-MM-DD" pattern="[0-9-]{10,10}" name="from" onChange={this.dateInputFrom} />
+                <input required className="form__input" type="text" placeholder="YYYY-MM-DD" pattern="[0-9-]{10,10}" name="from" onChange={this.dateInputFrom} key={dateInputFrom} />
               </div>
               <div>
                 <label htmlFor="to">To:</label>
-                <input required className="form__input" type="text" placeholder="YYYY-MM-DD" pattern="[0-9-]{10,10}" name="to" onChange={this.dateInputTo} />
+                <input required className="form__input" type="text" placeholder="YYYY-MM-DD" pattern="[0-9-]{10,10}" name="to" onChange={this.dateInputTo} key={dateInputTo} />
               </div>
               <button type="submit" className="btn">filter!</button>
             </form>
+          </div>
+          <div id="tip" className="hidden">
+            <div className="container">
+              <p key={tip}>Sorry, no data between the date range {this.state.fromDate} - {this.state.toDate}. Try selecting dates between 2017-01-01 - 2017-06-12!</p>
+            </div>
           </div>
         </section>
     </div>)

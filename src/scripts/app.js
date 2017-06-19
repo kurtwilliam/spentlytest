@@ -24,7 +24,9 @@ class App extends React.Component {
 				<Header />
 				<Report /> 
 				<Summary />
-				<DataSet />
+				<section className="data__section">
+					<DataSet />
+				</section>
 			</div>
 		)
 	}
